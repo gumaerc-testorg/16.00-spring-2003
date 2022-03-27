@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 284b22d1-58c0-cd0a-a451-a98fd32b4ade
 resourcetype: Document
 title: Beginning-of-term Questionnaire Spring 2003
 uid: cff49f64-fbd9-b1bb-a30a-d565f53a3cbc

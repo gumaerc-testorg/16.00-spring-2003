@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 284b22d1-58c0-cd0a-a451-a98fd32b4ade
 resourcetype: Document
 title: Aircraft Performance Flight Simulation Lab Solution
 uid: df11b6a9-4110-322b-4ba0-b5e5862cd440

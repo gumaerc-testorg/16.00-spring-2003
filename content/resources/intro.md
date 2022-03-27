@@ -15,6 +15,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 5f8de6cd-9a73-e389-7b72-38cefdedbca6
 resourcetype: Document
 title: 'Delta Design Game '
 uid: 1df35514-eb38-1e71-7f9e-1cf25036d55e
