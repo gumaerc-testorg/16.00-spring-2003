@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the course textbook, including an overview,
+  a list of features and supplements, and the table of contents.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
