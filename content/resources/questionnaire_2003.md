@@ -5,6 +5,7 @@ file: /courses/16-00-introduction-to-aerospace-engineering-and-design-spring-200
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Beginning-of-term Questionnaire Spring 2003
 uid: cff49f64-fbd9-b1bb-a30a-d565f53a3cbc
 ---
 Questionnaire given to students at the beginning of the course.
-
