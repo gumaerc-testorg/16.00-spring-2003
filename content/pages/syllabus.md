@@ -1,21 +1,22 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  requirements, grading, problem set solutions, handouts, and a note on submission
+  of work.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: a9b5af96-1b31-258e-9e14-e77c0fed4350
 ---
-
-uCourse Meeting Times
----------------------
+## Course Meeting Times
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
-Prerequisites
--------------
+## Prerequisites
 
 8.01 and 18.01
 
-Course Requirements
--------------------
+## Course Requirements
 
 ### Textbook
 
@@ -37,27 +38,23 @@ All assignments are given on the syllabus homepage. Homework assignments include
 
 Teams of 5-6 students each would design, build, and race a remote controlled, lighter-than-air vehicle. The teams compete in their ability to carry the largest payload around a specified course in the minimum amount of time. The designs are judged on their equivalent mass/time. LTA vehicles are also judged in the categories of most reliable and most aesthetic designs. All designs are constrained to have a gross mass of less than 1.75 kg. A project kit is provided consisting of radio control equipment, batteries, balloons, electric motors, and construction materials.
 
-Grading
--------
+## Grading
 
 Performance will be evaluated on the basis of class participation, reading summaries, problem sets, personal design portfolio submissions, and the LTA vehicle design project. There will be no tests or final exam. The final grade for the course will be calculated approximately as follows:
 
-*   Problem Sets and Reading Summaries 30%
-*   Student Personal Design Portfolio 15%
-*   LTA Design Project 45% (including PDR, CDR, Trials and Race)
-*   Attendance, Participation, General Evaluation 10%
+- Problem Sets and Reading Summaries 30%
+- Student Personal Design Portfolio 15%
+- LTA Design Project 45% (including PDR, CDR, Trials and Race)
+- Attendance, Participation, General Evaluation 10%
 
-Problem Set Solutions
----------------------
+## Problem Set Solutions
 
 Solutions will be posted one week after problem sets are due.
 
-Handouts
---------
+## Handouts
 
 There will be occasional handouts in lectures. It is expected that regular attendance in lecture will offer the opportunity to pick up these handouts.
 
-A Note on Submission of Work
-----------------------------
+## A Note on Submission of Work
 
 The manner in which you present your work can be just as important (and in some cases more so) than the final answer. Be sure to delineate each step along the way. Show a clear and logical approach to your solution. That makes your problem sets a better reference to you and easier for us to give you partial credit (if so deserving).
