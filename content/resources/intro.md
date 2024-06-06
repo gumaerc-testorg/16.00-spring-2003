@@ -9,6 +9,7 @@ description: Delta Design is a team exercise developed at M.I.T. by Prof. Louis 
   so that the team must make tradeoffs in order to achieve individual and group performance
   goals within the three or four hours required for learning and playing the game.
 file: /courses/16-00-introduction-to-aerospace-engineering-and-design-spring-2003/1df35514eb381e717f9e1cf25036d55e_intro.pdf
+file_size: 89679
 file_type: application/pdf
 learning_resource_types:
 - Projects
