@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lab assignment to design, analyze, and then flight test a model rocket.
-file: /ol-ocw-studio-app/courses/16-00-introduction-to-aerospace-engineering-and-design-spring-2003/a383254c865272a96308f29de972acfc_RocketLab2003.pdf
+file: /courses/16-00-introduction-to-aerospace-engineering-and-design-spring-2003/a383254c865272a96308f29de972acfc_RocketLab2003.pdf
 file_size: 96635
 file_type: application/pdf
 learning_resource_types: []
