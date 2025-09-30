@@ -8,67 +8,67 @@ ocw_type: CourseSection
 title: Related Resources
 uid: e3d273d2-2d6f-7e11-5db7-f51e976294c9
 ---
-[The Engines of Our Ingenuity radio program](http://www.uh.edu/engines/)         
-[Online Ethics Center for Engineering and Science](http://web.archive.org/web/20220123095311/http://www.onlineethics.org/)
+{{% resource_link "ea748d50-d2ea-4d86-bedc-1650bdebb436" "The Engines of Our Ingenuity radio program" %}}         
+{{% resource_link "8782f485-6d1c-43d6-9a21-69b4d4dd1eea" "Online Ethics Center for Engineering and Science" %}}
 
 ## Chapter 1
 
-[Pg. 1 -- NASA History Office Home Page](http://history.nasa.gov/)         
-[Pg. 2 -- Montgolfier Lighter-Than-Air Balloon](http://web.archive.org/web/20070705214852/http://www.allstar.fiu.edu/AERO/balloon2.htm)         
-[Pg. 3 -- Santos-Dumont's dirigible flying by the Eiffel Tower](http://web.archive.org/web/20120921035326/http://www.centennialofflight.gov/essay/Lighter_than_air/Beginning_of_the_Dirigible/LTA6G6.htm)         
-[Pg. 4 -- On-line Ballooning](http://www.nasm.si.edu/)         
-[Pg. 4 -- National Air and Space Musuem Collections](http://www.nasm.si.edu/nasm/rc.htm)         
-[Pg. 4 -- NASA Historical Archives for Manned Missions](http://www.spaceflight.nasa.gov/history/index.html)         
-[Pg. 5 -- Women in Aviation and Space History](http://web.archive.org/web/20220107205011/https://airandspace.si.edu/explore-and-learn/topics/women-in-aviation/)         
-[Pg. 8 -- The Boeing Clipper](http://www.boeing.com/history/products/model-314-clipper.page)         
-[Pg. 10 -- MiG 15 Fighter of the Soviet Air Force](https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-15)         
-[Pg. 10 -- The Concorde Supersonic Airliner](http://www.britishairways.com/travel/concvidhome/public/en_gb)         
-[Pg. 10 -- The Boeing 747-100](http://www.boeing.com/commercial/747family/pf/pf_classic_back.html)         
-[Pg. 10 -- The Airbus A320](http://web.archive.org/web/20070930174428/http://www.airliners.net/info/stats.main?id=23)         
-[Pg. 12 -- NASA Image Exchange](http://web.archive.org/web/20050723005805/http://nix.nasa.gov/)         
-[Pg. 12 -- NASA Langley Research Center - Multimedia Repository](http://web.archive.org/web/20160116141215/http://lisar.larc.nasa.gov/)         
-[Pg. 13 -- Sputnik](https://web.archive.org/web/20090401194410/http://www.hq.nasa.gov/office/pao/History/sputnik/index.html)         
-[Pg. 13 -- The New York Times on AOL: Sputnik](http://www.nytimes.com/partners/aol/special/sputnik/)
+{{% resource_link "f74d9369-86e7-45bf-85f1-782e7cacb656" "Pg. 1 -- NASA History Office Home Page" %}}         
+{{% resource_link "cd09542e-b6f8-4df7-9339-615296b999fc" "Pg. 2 -- Montgolfier Lighter-Than-Air Balloon" %}}         
+{{% resource_link "3bf1569f-af63-4f1c-862a-238fa65f30a6" "Pg. 3 -- Santos-Dumont's dirigible flying by the Eiffel Tower" %}}         
+{{% resource_link "7d26f080-fec7-4038-a74b-744555d01e2b" "Pg. 4 -- On-line Ballooning" %}}         
+{{% resource_link "8b34f2e6-4267-41ff-9c73-014408aadce3" "Pg. 4 -- National Air and Space Musuem Collections" %}}         
+{{% resource_link "bc268f6d-889f-4799-9369-bb8533207508" "Pg. 4 -- NASA Historical Archives for Manned Missions" %}}         
+{{% resource_link "c8beb562-d5ea-495a-94ac-1b3bf06aef9c" "Pg. 5 -- Women in Aviation and Space History" %}}         
+{{% resource_link "b909d368-7fb5-4ac8-a004-bf3eef7560da" "Pg. 8 -- The Boeing Clipper" %}}         
+{{% resource_link "5370a801-3cc3-405f-a10b-2f89e70455df" "Pg. 10 -- MiG 15 Fighter of the Soviet Air Force" %}}         
+{{% resource_link "87417f6f-4524-43e3-868d-0024a31430a0" "Pg. 10 -- The Concorde Supersonic Airliner" %}}         
+{{% resource_link "625ed5cf-f127-4f4d-b586-ce353d82bc72" "Pg. 10 -- The Boeing 747-100" %}}         
+{{% resource_link "1aa79fe9-4908-4f39-9175-c1f0702bf0f1" "Pg. 10 -- The Airbus A320" %}}         
+{{% resource_link "a3718e41-0d2f-4855-95e5-6a7c0232fae9" "Pg. 12 -- NASA Image Exchange" %}}         
+{{% resource_link "3c2a038d-0575-4212-8b1a-5f4460a7be3c" "Pg. 12 -- NASA Langley Research Center - Multimedia Repository" %}}         
+{{% resource_link "cfa62139-0dbe-4e9c-ac72-317fc4d8b143" "Pg. 13 -- Sputnik" %}}         
+{{% resource_link "4cd83db8-4887-4ee6-b4ae-baf81363409d" "Pg. 13 -- The New York Times on AOL: Sputnik" %}}
 
 ## Chapter 2
 
-[Pg. 23 -- Neolithic Technology](http://www.uh.edu/engines/epi355.htm)         
-[Pg. 24 -- The First Suez Canal](http://www.uh.edu/engines/epi1257.htm)         
-[Pg. 24 -- An Egyptian Model Airplane](http://www.uh.edu/engines/epi328.htm)         
-[Pg. 25 -- A Dark Age](http://www.uh.edu/engines/epi577.htm)         
-[Pg. 25 -- Committee for Research and Exploration @ nationalgeographic.com](http://web.archive.org/web/20110330204220/http://www.nationalgeographic.com/field/grants-programs/cre-members/)         
-[Pg. 29 -- Draper Laboratory](http://www.draper.com/)         
-[Pg. 32 -- Boeing 777](http://www.boeing.com/commercial/777family/)         
+{{% resource_link "068be379-24cd-4d95-a3bf-23f8282d57d3" "Pg. 23 -- Neolithic Technology" %}}         
+{{% resource_link "2fc51979-605a-44cc-a85a-176b001aae0e" "Pg. 24 -- The First Suez Canal" %}}         
+{{% resource_link "3b731565-13b8-44c6-b3e3-3f29fae7661e" "Pg. 24 -- An Egyptian Model Airplane" %}}         
+{{% resource_link "779dc7cc-f1eb-4f17-879f-89498c3173be" "Pg. 25 -- A Dark Age" %}}         
+{{% resource_link "d579c355-e001-4e8d-9161-71defa36f160" "Pg. 25 -- Committee for Research and Exploration @ nationalgeographic.com" %}}         
+{{% resource_link "6957fea2-8a6d-406a-88e5-fd48e03761f9" "Pg. 29 -- Draper Laboratory" %}}         
+{{% resource_link "3f9ddc92-cb90-4b56-b508-e22cc8a5199c" "Pg. 32 -- Boeing 777" %}}         
 Pg. 32 -- Taurus Star-forming Cloud
 
 ## Chapter 3
 
-[Pg. 37 -- Baden Baden-Powell](http://www.uh.edu/engines/epi1233.htm)         
-[Pg. 40 -- FoilSim](http://www.grc.nasa.gov/WWW/K-12/FoilSim/index.html)         
-[Pg. 50 -- Aerodynamic Forces](http://www.grc.nasa.gov/WWW/K-12/airplane/presar.html)         
-[Pg. 55 -- Advanced Fluid Flow](http://www.simscience.org/fluid/red/downwash.html)         
-[Pg. 58 -- FoilSim](http://www.grc.nasa.gov/WWW/K-12/FoilSim/index.html)
+{{% resource_link "2bd8883a-ab2b-4e77-8388-9dbb744288df" "Pg. 37 -- Baden Baden-Powell" %}}         
+{{% resource_link "ff436e79-7f08-4b3f-bfb1-c77f5310e7f8" "Pg. 40 -- FoilSim" %}}         
+{{% resource_link "4c7d76e3-517c-4f11-911d-9bc551994560" "Pg. 50 -- Aerodynamic Forces" %}}         
+{{% resource_link "361c94c7-841f-4ab3-8a34-2e1ab33937b0" "Pg. 55 -- Advanced Fluid Flow" %}}         
+{{% resource_link "ff436e79-7f08-4b3f-bfb1-c77f5310e7f8" "Pg. 58 -- FoilSim" %}}
 
 ## Chapter 6
 
-[Pg. 123 -- Beginner's Guide to Propulsion](http://www.grc.nasa.gov/WWW/K-12/airplane/bgp.html)
+{{% resource_link "2046cba0-92bf-4f16-b053-eebf3c7381c5" "Pg. 123 -- Beginner's Guide to Propulsion" %}}
 
 ## Chapter 8
 
-[Pg. 179 -- Magnetic Features on the Sun Movie](http://web.archive.org/web/20051007195040/http://science.msfc.nasa.gov/videofiles/physics_astronomy/magstorm160.rm)         
-[Pg. 186 -- ALH84001 Main Sample Page](http://www-curator.jsc.nasa.gov/antmet/)         
-[Pg. 190 -- Mars Pathfinder Home](http://web.archive.org/web/20051231040811/http://mpfwww.jpl.nasa.gov/MPF/index1.html)
+{{% resource_link "3363de40-557d-4c95-94a8-87ea8177d388" "Pg. 179 -- Magnetic Features on the Sun Movie" %}}         
+{{% resource_link "60d39f1d-d23a-41cf-868d-ad12bdced77c" "Pg. 186 -- ALH84001 Main Sample Page" %}}         
+{{% resource_link "2f60a667-4924-482a-928b-daee2cec866a" "Pg. 190 -- Mars Pathfinder Home" %}}
 
 ## Chapter 10
 
-[Pg. 218 -- Boeing Satellite System, Inc.](http://web.archive.org/web/20121031090753/http://www.boeing.com/defense-space/space/bss/)
+{{% resource_link "8499ec6f-4c85-4713-8912-6d052c774d1f" "Pg. 218 -- Boeing Satellite System, Inc." %}}
 
 ## Chapter 11
 
-[Pg. 252 -- International Space Station](http://spaceflight.nasa.gov/station/)         
-[Pg. 257 -- Timeline of Planetary Exploration Missions](http://nssdc.gsfc.nasa.gov/planetary/chrono.html)         
-[Pg. 257 -- History of Space Suits](http://web.mit.edu/16.00/www/aec/spacesuit.html)
+{{% resource_link "2498762e-800a-43c1-8339-e3bfba230173" "Pg. 252 -- International Space Station" %}}         
+{{% resource_link "55135cb3-55c0-44f9-b333-56ad94527b16" "Pg. 257 -- Timeline of Planetary Exploration Missions" %}}         
+{{% resource_link "55afb46d-9d7d-42a4-b5e3-5f65e38ffea6" "Pg. 257 -- History of Space Suits" %}}
 
 ## Chapter 12
 
-[Pg. 296 -- A New Architectural Eye](http://www.uh.edu/engines/epi796.htm)
+{{% resource_link "02fd7c60-1c13-4b0a-bf99-fd356d4621af" "Pg. 296 -- A New Architectural Eye" %}}
