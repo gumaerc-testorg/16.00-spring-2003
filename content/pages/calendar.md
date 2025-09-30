@@ -45,7 +45,7 @@ Aerodynamics
 {{< tdclose >}}{{< tdopen >}}
 Chapter 3, Aerodynamics    
 EOI: Airships, EOI: Heavier Than Air    
-[FoilSim](http://www.grc.nasa.gov/WWW/K-12/FoilSim/index.html)
+{{% resource_link "ff436e79-7f08-4b3f-bfb1-c77f5310e7f8" "FoilSim" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -140,7 +140,7 @@ Preliminary Design Review: Due
 {{< tdclose >}}{{< tdopen >}}
 Ethics in Engineering
 {{< tdclose >}}{{< tdopen >}}
-[Challenger Case Study](http://web.archive.org/web/20160306184335/http://www.onlineethics.org/cms/glossary/12893.aspx)
+{{% resource_link "2234776a-83fb-4ae5-be17-007d2eff8265" "Challenger Case Study" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -165,7 +165,7 @@ PDP Examples on CD-ROM
 {{< tdclose >}}{{< tdopen >}}
 Orbital Mechanics
 {{< tdclose >}}{{< tdopen >}}
-[Machine Tools](http://web.archive.org/web/20050923074310/http://web.mit.edu/2.670/www/Tutorials/Machining/Description.html)
+{{% resource_link "a9ba81d9-2e45-4824-b679-22259722ef93" "Machine Tools" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -198,7 +198,7 @@ Completed Design Review: Due
 Extravehicular Activity (EVA)
 {{< tdclose >}}{{< tdopen >}}
 Chapter 11, Human Space Exploration    
-[Space Team Online](http://web.archive.org/web/20160223191939/http://quest.arc.nasa.gov/space/teachers/suited/0content.html)
+{{% resource_link "e9f1bcc8-71ad-4f15-93ef-364fbb7381ac" "Space Team Online" %}}
 {{< tdclose >}}{{< tdopen >}}
 Personal Design Portfolio: Due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
